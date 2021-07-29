@@ -14,17 +14,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/blob/main
-cd Pro-Auto-Filter-Bot-V2-ReMaster
-pip3 install -r requirements.txt
-# Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot
-</pre>
-</p>
-</details>
+
 
 #### Credits
 <details><summary>Credits</summary>
